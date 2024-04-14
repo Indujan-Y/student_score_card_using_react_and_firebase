@@ -1,0 +1,17 @@
+.achivements-div .card-div{
+    background-color: white;
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+    padding: 1em;
+}
+
+.achivements-div  .card-details {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.achivements-div  .card-details div {
+    margin-left: 2em;
+}

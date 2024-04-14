@@ -1,0 +1,19 @@
+.header-div {
+    padding: 1em;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-title {
+    color: #252E63;
+}
+
+.header-logo img{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: transparent;
+}
+

@@ -1,0 +1,21 @@
+.ceriticate-div .card-div{
+    background-color: white;
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+    padding: 1em;
+}
+
+.ceriticate-div .card-details {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.ceriticate-div .card-details .donwloads button {
+    width: 100px;
+    height: 30px;
+    background-color: #252E63;
+    color: white;
+    border-radius: 30px;
+}
